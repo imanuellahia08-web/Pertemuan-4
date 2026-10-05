@@ -1,0 +1,4 @@
+Nama : Mesias Imanuel Lahia
+NIM : 2604015
+Bukti : Project berhasil dipulihkan dari remote repository.
+Penjelasan : File ini dibuat dari working copy hasil clone pada Pertemuan 4.
